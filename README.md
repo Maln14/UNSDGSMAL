@@ -2,7 +2,7 @@ UN Sustainable Development Goals Analysis Pipeline
 Project Overview
 This project is a comprehensive data science pipeline designed to analyze progress towards three critical United Nations Sustainable Development Goals: SDG 2 (Zero Hunger), SDG 4 (Quality Education), and SDG 8 (Decent Work and Economic Growth). The application provides an interactive web-based dashboard that transforms complex UN datasets into actionable insights for policymakers, researchers, and development organizations.
 
-Acess link: 
+Acess link: https://unsdgmal.streamlit.app/ 
 
 Project Goals:
 Primary Objectives
