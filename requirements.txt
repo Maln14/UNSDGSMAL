@@ -1,0 +1,26 @@
+# UN SDGs Data Science Pipeline - Requirements
+# Generated for GitHub deployment
+
+# Core Data Science Libraries
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization Libraries
+plotly>=5.15.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Machine Learning Libraries
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# File Processing
+openpyxl>=3.1.0
+
+# Development Tools (optional)
+pipreqs>=0.4.11
+
+# Additional dependencies that may be needed
+urllib3>=2.0.0
